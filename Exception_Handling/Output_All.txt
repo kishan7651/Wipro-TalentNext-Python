@@ -1,0 +1,45 @@
+Output1:
+Input:
+
+Enter first number: 20
+Enter second number: 0
+
+Output:
+
+Error: division by zero
+
+Output2:
+Input:
+
+Enter a number: 13
+
+Output:
+
+13 is a Prime Number
+
+Output3:
+
+Input:
+
+Enter file name: sample.txt
+
+(sample.txt contains:)
+
+welcome to python programming
+this is a file handling program
+
+Output:
+
+File Contents in Title Case:
+Welcome To Python Programming
+This Is A File Handling Program
+
+
+Output4:
+Input:
+
+Enter the index (0-9): 2
+
+Output:
+
+The number is Positive.
