@@ -1,0 +1,49 @@
+Output1:
+File Contents:
+Hello
+Welcome to Python
+This is a text file.
+
+Output2:
+Input:
+
+Enter the number of lines to read: 3
+
+Output:
+
+Hello
+Welcome to Python
+This is a text file.
+
+Output3:
+Input:
+
+Enter text to append: Python is easy.
+
+Output:
+
+Data appended successfully.
+
+Updated file:
+
+Hello
+Welcome to Python
+This is a text file.
+Python is easy.
+
+Output4:
+Contents of the list:
+['Hello', 'Welcome to Python', 'This is a text file.', 'Python is easy.']
+
+Outpu5:
+Longest word: programmingcommunication
+
+
+Output6:
+Input:
+
+Enter the word to search: Python
+
+Output:
+
+Frequency of python is 3
