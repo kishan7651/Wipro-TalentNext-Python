@@ -1,0 +1,21 @@
+Output1:
+Sum: 20
+
+Output2:
+Reversed String: dcba4321
+
+
+Output3:
+Enter a non-negative integer: 5
+Factorial: 120
+
+Output4:
+Number of uppercase letters: 4
+Number of lowercase letters: 12
+
+Output5:
+[2, 4, 6, 8]
+
+Output6:
+Enter a number: 13
+13 is a Prime Number
