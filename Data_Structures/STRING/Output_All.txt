@@ -1,0 +1,22 @@
+Output1:
+Enter a string: WiproTalentNext
+Uppercase Letters = 3
+Lowercase Letters = 12
+
+Output2:
+Enter a string: madam
+Palindrome
+
+Output3:
+Enter a string: Wipro
+WiWiWiWiWi
+
+Output4:
+Enter a string: xHix
+Hi
+
+Output5:
+Enter a string: Wipro
+Enter n: 3
+propropro
+

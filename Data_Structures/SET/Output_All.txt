@@ -1,0 +1,14 @@
+Output1:
+Enter item to remove: 30
+Updated Set: {40, 10, 50, 20}
+
+Output2:
+Intersection: {40, 30}
+
+Output3:
+Union: {10, 20, 30, 40, 50, 60}
+
+Output4:
+Maximum Value: 40
+Minimum Value: 5
+

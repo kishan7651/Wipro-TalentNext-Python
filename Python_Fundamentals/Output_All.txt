@@ -1,4 +1,56 @@
-sare output yaha pho do
+Output1:
+
+Enter a number: -5
+Negative Number
+
+Enter a number: 10
+Positive Number
 
 
-ab dekh next wala kase create karne ha direct yahi par
+Output2:
+Enter a number: 15
+Odd Number
+
+
+
+Output3:
+Enter first number: 27
+Enter second number: 57
+True
+
+Output4:
+1	2	3	4	5	6	7	8	9	10
+
+Output5:
+24
+26
+28
+30
+...
+56
+
+Output6:
+Enter a number: 17
+Prime Number
+
+Output7:
+11
+13
+17
+19
+23
+...
+97
+
+Output8:
+Enter a number: 1234
+Sum = 10
+
+Output9:
+Enter a number: 1234
+4321
+
+Output10:
+Enter a number: 110011
+110011 is a palindrome
+
