@@ -1,4 +1,4 @@
-#Write a program to check if a given number is Positive, Negative, or Zero.
+#Write a program to check if a given number is Positive, Negative, or Zero. 
 
 num = float(input("Enter a number: "))
 
