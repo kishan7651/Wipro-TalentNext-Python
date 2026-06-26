@@ -1,0 +1,18 @@
+Output1:
+4th element from first: 40
+4th element from last: 50
+
+Output2:
+Enter element: 30
+Element exists in tuple
+
+output3:
+Tuple: (10, 20, 30, 40, 50)
+
+Output4:
+Enter item: 40
+Index = 3
+
+Output5:
+[(10, 20, 100), (40, 50, 100), (70, 80, 100)]
+
