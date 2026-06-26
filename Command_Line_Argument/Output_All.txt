@@ -1,0 +1,10 @@
+Output1:
+Sum = 30
+
+Outpu2:1
+File Name: welcome.py
+Welcome Message: Welcome to Python
+
+
+Output3:
+Sum of prime numbers = 28
